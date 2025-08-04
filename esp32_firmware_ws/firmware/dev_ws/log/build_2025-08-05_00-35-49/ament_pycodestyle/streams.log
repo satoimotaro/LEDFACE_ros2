@@ -1,0 +1,41 @@
+[0.949s] Invoking command in '/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_lint/ament_pycodestyle': PYTHONPATH=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_pycodestyle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pycodestyle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_pycodestyle build --build-base /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_pycodestyle/build install --record /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_pycodestyle/install.log --single-version-externally-managed install_data
+[1.141s] running egg_info
+[1.142s] creating ../../../build/ament_pycodestyle/ament_pycodestyle.egg-info
+[1.142s] writing ../../../build/ament_pycodestyle/ament_pycodestyle.egg-info/PKG-INFO
+[1.142s] writing dependency_links to ../../../build/ament_pycodestyle/ament_pycodestyle.egg-info/dependency_links.txt
+[1.142s] writing entry points to ../../../build/ament_pycodestyle/ament_pycodestyle.egg-info/entry_points.txt
+[1.142s] writing requirements to ../../../build/ament_pycodestyle/ament_pycodestyle.egg-info/requires.txt
+[1.142s] writing top-level names to ../../../build/ament_pycodestyle/ament_pycodestyle.egg-info/top_level.txt
+[1.142s] writing manifest file '../../../build/ament_pycodestyle/ament_pycodestyle.egg-info/SOURCES.txt'
+[1.144s] reading manifest file '../../../build/ament_pycodestyle/ament_pycodestyle.egg-info/SOURCES.txt'
+[1.145s] writing manifest file '../../../build/ament_pycodestyle/ament_pycodestyle.egg-info/SOURCES.txt'
+[1.145s] running build
+[1.145s] running build_py
+[1.145s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_pycodestyle/build
+[1.145s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_pycodestyle/build/lib
+[1.145s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_pycodestyle/build/lib/ament_pycodestyle
+[1.145s] copying ament_pycodestyle/__init__.py -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_pycodestyle/build/lib/ament_pycodestyle
+[1.145s] copying ament_pycodestyle/main.py -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_pycodestyle/build/lib/ament_pycodestyle
+[1.145s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_pycodestyle/build/lib/ament_pycodestyle/configuration
+[1.145s] copying ament_pycodestyle/configuration/ament_pycodestyle.ini -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_pycodestyle/build/lib/ament_pycodestyle/configuration
+[1.145s] running install
+[1.146s] running install_lib
+[1.146s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pycodestyle/lib/python3.10/site-packages/ament_pycodestyle
+[1.146s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pycodestyle/lib/python3.10/site-packages/ament_pycodestyle/configuration
+[1.146s] copying /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_pycodestyle/build/lib/ament_pycodestyle/configuration/ament_pycodestyle.ini -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pycodestyle/lib/python3.10/site-packages/ament_pycodestyle/configuration
+[1.147s] copying /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_pycodestyle/build/lib/ament_pycodestyle/__init__.py -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pycodestyle/lib/python3.10/site-packages/ament_pycodestyle
+[1.147s] copying /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_pycodestyle/build/lib/ament_pycodestyle/main.py -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pycodestyle/lib/python3.10/site-packages/ament_pycodestyle
+[1.147s] byte-compiling /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pycodestyle/lib/python3.10/site-packages/ament_pycodestyle/__init__.py to __init__.cpython-310.pyc
+[1.147s] byte-compiling /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pycodestyle/lib/python3.10/site-packages/ament_pycodestyle/main.py to main.cpython-310.pyc
+[1.149s] running install_data
+[1.149s] copying package.xml -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pycodestyle/share/ament_pycodestyle
+[1.149s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pycodestyle/share/ament_index
+[1.149s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pycodestyle/share/ament_index/resource_index
+[1.149s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pycodestyle/share/ament_index/resource_index/packages
+[1.149s] copying resource/ament_pycodestyle -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pycodestyle/share/ament_index/resource_index/packages
+[1.149s] running install_egg_info
+[1.151s] Copying ../../../build/ament_pycodestyle/ament_pycodestyle.egg-info to /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pycodestyle/lib/python3.10/site-packages/ament_pycodestyle-0.12.14-py3.10.egg-info
+[1.151s] running install_scripts
+[1.171s] Installing ament_pycodestyle script to /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pycodestyle/bin
+[1.172s] writing list of installed files to '/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_pycodestyle/install.log'
+[1.199s] Invoked command in '/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_lint/ament_pycodestyle' returned '0': PYTHONPATH=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_pycodestyle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pycodestyle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_pycodestyle build --build-base /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_pycodestyle/build install --record /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_pycodestyle/install.log --single-version-externally-managed install_data

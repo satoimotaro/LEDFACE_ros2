@@ -1,0 +1,40 @@
+[2.248s] Invoking command in '/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_lint/ament_cpplint': AMENT_PREFIX_PATH=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_copyright:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pep257:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_flake8:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_lint PATH=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_copyright/bin:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pep257/bin:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cpplint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_cpplint/lib/python3.10/site-packages:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_cpplint build --build-base /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cpplint/build install --record /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cpplint/install.log --single-version-externally-managed install_data
+[2.783s] running egg_info
+[2.785s] creating ../../../build/ament_cpplint/ament_cpplint.egg-info
+[2.785s] writing ../../../build/ament_cpplint/ament_cpplint.egg-info/PKG-INFO
+[2.785s] writing dependency_links to ../../../build/ament_cpplint/ament_cpplint.egg-info/dependency_links.txt
+[2.786s] writing entry points to ../../../build/ament_cpplint/ament_cpplint.egg-info/entry_points.txt
+[2.787s] writing requirements to ../../../build/ament_cpplint/ament_cpplint.egg-info/requires.txt
+[2.788s] writing top-level names to ../../../build/ament_cpplint/ament_cpplint.egg-info/top_level.txt
+[2.788s] writing manifest file '../../../build/ament_cpplint/ament_cpplint.egg-info/SOURCES.txt'
+[2.790s] reading manifest file '../../../build/ament_cpplint/ament_cpplint.egg-info/SOURCES.txt'
+[2.791s] writing manifest file '../../../build/ament_cpplint/ament_cpplint.egg-info/SOURCES.txt'
+[2.791s] running build
+[2.791s] running build_py
+[2.791s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cpplint/build
+[2.793s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cpplint/build/lib
+[2.793s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cpplint/build/lib/ament_cpplint
+[2.793s] copying ament_cpplint/__init__.py -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cpplint/build/lib/ament_cpplint
+[2.793s] copying ament_cpplint/cpplint.py -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cpplint/build/lib/ament_cpplint
+[2.793s] copying ament_cpplint/main.py -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cpplint/build/lib/ament_cpplint
+[2.794s] running install
+[2.796s] running install_lib
+[2.796s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_cpplint/lib/python3.10/site-packages/ament_cpplint
+[2.796s] copying /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cpplint/build/lib/ament_cpplint/__init__.py -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_cpplint/lib/python3.10/site-packages/ament_cpplint
+[2.796s] copying /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cpplint/build/lib/ament_cpplint/cpplint.py -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_cpplint/lib/python3.10/site-packages/ament_cpplint
+[2.797s] copying /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cpplint/build/lib/ament_cpplint/main.py -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_cpplint/lib/python3.10/site-packages/ament_cpplint
+[2.798s] byte-compiling /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_cpplint/lib/python3.10/site-packages/ament_cpplint/__init__.py to __init__.cpython-310.pyc
+[2.799s] byte-compiling /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_cpplint/lib/python3.10/site-packages/ament_cpplint/cpplint.py to cpplint.cpython-310.pyc
+[2.840s] byte-compiling /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_cpplint/lib/python3.10/site-packages/ament_cpplint/main.py to main.cpython-310.pyc
+[2.844s] running install_data
+[2.844s] copying package.xml -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_cpplint/share/ament_cpplint
+[2.845s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_cpplint/share/ament_index
+[2.845s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_cpplint/share/ament_index/resource_index
+[2.845s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_cpplint/share/ament_index/resource_index/packages
+[2.845s] copying resource/ament_cpplint -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_cpplint/share/ament_index/resource_index/packages
+[2.845s] running install_egg_info
+[2.846s] Copying ../../../build/ament_cpplint/ament_cpplint.egg-info to /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_cpplint/lib/python3.10/site-packages/ament_cpplint-0.12.14-py3.10.egg-info
+[2.849s] running install_scripts
+[2.878s] Installing ament_cpplint script to /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_cpplint/bin
+[2.878s] writing list of installed files to '/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cpplint/install.log'
+[2.916s] Invoked command in '/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_lint/ament_cpplint' returned '0': AMENT_PREFIX_PATH=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_copyright:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pep257:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_flake8:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_lint PATH=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_copyright/bin:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pep257/bin:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cpplint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_cpplint/lib/python3.10/site-packages:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_cpplint build --build-base /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cpplint/build install --record /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cpplint/install.log --single-version-externally-managed install_data

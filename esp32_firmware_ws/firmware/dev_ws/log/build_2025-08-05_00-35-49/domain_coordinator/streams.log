@@ -1,0 +1,35 @@
+[2.223s] Invoking command in '/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ros2/ament_cmake_ros/domain_coordinator': AMENT_PREFIX_PATH=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_copyright:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pep257:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_flake8:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_lint PATH=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_copyright/bin:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pep257/bin:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/domain_coordinator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/domain_coordinator build --build-base /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/domain_coordinator/build install --record /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/domain_coordinator/install.log --single-version-externally-managed install_data
+[2.763s] running egg_info
+[2.766s] creating ../../../build/domain_coordinator/domain_coordinator.egg-info
+[2.766s] writing ../../../build/domain_coordinator/domain_coordinator.egg-info/PKG-INFO
+[2.766s] writing dependency_links to ../../../build/domain_coordinator/domain_coordinator.egg-info/dependency_links.txt
+[2.767s] writing requirements to ../../../build/domain_coordinator/domain_coordinator.egg-info/requires.txt
+[2.767s] writing top-level names to ../../../build/domain_coordinator/domain_coordinator.egg-info/top_level.txt
+[2.767s] writing manifest file '../../../build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[2.771s] reading manifest file '../../../build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[2.773s] writing manifest file '../../../build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[2.773s] running build
+[2.773s] running build_py
+[2.774s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/domain_coordinator/build
+[2.774s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/domain_coordinator/build/lib
+[2.774s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator
+[2.774s] copying domain_coordinator/__init__.py -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator
+[2.774s] copying domain_coordinator/impl.py -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator
+[2.775s] running install
+[2.776s] running install_lib
+[2.776s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator
+[2.777s] copying /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator/__init__.py -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator
+[2.777s] copying /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator/impl.py -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator
+[2.777s] byte-compiling /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator/__init__.py to __init__.cpython-310.pyc
+[2.778s] byte-compiling /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator/impl.py to impl.cpython-310.pyc
+[2.778s] running install_data
+[2.779s] copying package.xml -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/domain_coordinator/share/domain_coordinator
+[2.779s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/domain_coordinator/share/ament_index
+[2.780s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/domain_coordinator/share/ament_index/resource_index
+[2.780s] creating /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/domain_coordinator/share/ament_index/resource_index/packages
+[2.780s] copying resource/domain_coordinator -> /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/domain_coordinator/share/ament_index/resource_index/packages
+[2.780s] running install_egg_info
+[2.782s] Copying ../../../build/domain_coordinator/domain_coordinator.egg-info to /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator-0.10.0-py3.10.egg-info
+[2.785s] running install_scripts
+[2.825s] writing list of installed files to '/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/domain_coordinator/install.log'
+[2.871s] Invoked command in '/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ros2/ament_cmake_ros/domain_coordinator' returned '0': AMENT_PREFIX_PATH=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_copyright:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pep257:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_flake8:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_lint PATH=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_copyright/bin:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pep257/bin:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/domain_coordinator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/domain_coordinator build --build-base /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/domain_coordinator/build install --record /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/domain_coordinator/install.log --single-version-externally-managed install_data
