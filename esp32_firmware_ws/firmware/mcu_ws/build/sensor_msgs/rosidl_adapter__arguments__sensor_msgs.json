@@ -1,0 +1,33 @@
+{
+  "package_name": "sensor_msgs",
+  "non_idl_tuples": [
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/BatteryState.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/CameraInfo.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/ChannelFloat32.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/CompressedImage.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/FluidPressure.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/Illuminance.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/Image.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/Imu.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/JointState.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/Joy.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/JoyFeedback.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/JoyFeedbackArray.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/LaserEcho.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/LaserScan.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/MagneticField.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/MultiDOFJointState.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/MultiEchoLaserScan.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/NavSatFix.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/NavSatStatus.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/PointCloud.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/PointCloud2.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/PointField.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/Range.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/RegionOfInterest.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/RelativeHumidity.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/Temperature.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:msg/TimeReference.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs:srv/SetCameraInfo.srv"
+  ]
+}

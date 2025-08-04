@@ -1,0 +1,36 @@
+[0.915s] Invoking command in '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_lint/ament_lint': PYTHONPATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_lint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_lint build --build-base /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_lint/build install --record /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_lint/install.log --single-version-externally-managed install_data
+[1.100s] running egg_info
+[1.100s] creating ../../../build/ament_lint/ament_lint.egg-info
+[1.100s] writing ../../../build/ament_lint/ament_lint.egg-info/PKG-INFO
+[1.100s] writing dependency_links to ../../../build/ament_lint/ament_lint.egg-info/dependency_links.txt
+[1.100s] writing entry points to ../../../build/ament_lint/ament_lint.egg-info/entry_points.txt
+[1.100s] writing requirements to ../../../build/ament_lint/ament_lint.egg-info/requires.txt
+[1.101s] writing top-level names to ../../../build/ament_lint/ament_lint.egg-info/top_level.txt
+[1.101s] writing manifest file '../../../build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[1.102s] reading manifest file '../../../build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[1.103s] writing manifest file '../../../build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[1.103s] running build
+[1.103s] running build_py
+[1.103s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_lint/build
+[1.103s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_lint/build/lib
+[1.103s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint
+[1.103s] copying ament_lint/pytest_marker.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint
+[1.104s] copying ament_lint/__init__.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint
+[1.104s] running install
+[1.104s] running install_lib
+[1.104s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint
+[1.104s] copying /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint/pytest_marker.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint
+[1.104s] copying /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint/__init__.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint
+[1.105s] byte-compiling /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint/pytest_marker.py to pytest_marker.cpython-310.pyc
+[1.105s] byte-compiling /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint/__init__.py to __init__.cpython-310.pyc
+[1.105s] running install_data
+[1.105s] copying package.xml -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_lint/share/ament_lint
+[1.105s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_lint/share/ament_index
+[1.106s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_lint/share/ament_index/resource_index
+[1.106s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_lint/share/ament_index/resource_index/packages
+[1.106s] copying resource/ament_lint -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_lint/share/ament_index/resource_index/packages
+[1.106s] running install_egg_info
+[1.107s] Copying ../../../build/ament_lint/ament_lint.egg-info to /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint-0.12.14-py3.10.egg-info
+[1.108s] running install_scripts
+[1.130s] writing list of installed files to '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_lint/install.log'
+[1.169s] Invoked command in '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_lint/ament_lint' returned '0': PYTHONPATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_lint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_lint build --build-base /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_lint/build install --record /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_lint/install.log --single-version-externally-managed install_data

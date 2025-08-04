@@ -1,0 +1,8 @@
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/libmicrocdr.a
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/include/ucdr/microcdr.h
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/include/ucdr/visibility.h
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/include/ucdr/config.h
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/microcdr/cmake/microcdrTargets.cmake
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/microcdr/cmake/microcdrTargets-debug.cmake
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/microcdr/cmake/microcdrConfig.cmake
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/microcdr/cmake/microcdrConfigVersion.cmake

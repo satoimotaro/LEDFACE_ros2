@@ -1,0 +1,4 @@
+Invoking command in '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/microcdr': /usr/bin/cmake --build /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/microcdr -- -j16 -l16
+Invoked command in '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/microcdr' returned '0': /usr/bin/cmake --build /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/microcdr -- -j16 -l16
+Invoking command in '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/microcdr': /usr/bin/cmake --install /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/microcdr
+Invoked command in '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/microcdr' returned '0': /usr/bin/cmake --install /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/microcdr

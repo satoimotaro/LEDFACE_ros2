@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package
+CMAKE_SOURCE_DIR = /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package
+CMAKE_BINARY_DIR = /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package
 
 # Utility rule file for ContinuousCoverage.
 
@@ -82,6 +82,6 @@ CMakeFiles/ContinuousCoverage.dir/clean:
 .PHONY : CMakeFiles/ContinuousCoverage.dir/clean
 
 CMakeFiles/ContinuousCoverage.dir/depend:
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/CMakeFiles/ContinuousCoverage.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/CMakeFiles/ContinuousCoverage.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ContinuousCoverage.dir/depend
 

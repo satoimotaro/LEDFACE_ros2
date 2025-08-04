@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_gen_version_h/ament_cmake_gen_version_h/include -I/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_gen_version_h/include -I/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_gen_version_h/ament_generate_version_header/some_lib -isystem /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/gtest_vendor/src/gtest_vendor/include
+CXX_INCLUDES = -I/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_gen_version_h/ament_cmake_gen_version_h/include -I/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_gen_version_h/include -I/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_gen_version_h/ament_generate_version_header/some_lib -isystem /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/gtest_vendor/src/gtest_vendor/include
 
 CXX_FLAGS = -std=gnu++14
 

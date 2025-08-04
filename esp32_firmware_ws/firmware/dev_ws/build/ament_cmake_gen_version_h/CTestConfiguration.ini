@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_gen_version_h
-BuildDirectory: /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_gen_version_h
+SourceDirectory: /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_gen_version_h
+BuildDirectory: /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_gen_version_h
 
 # Where to place the cost data store
 CostDataFile: 
@@ -26,7 +26,7 @@ SubmitURL: http://
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/bin/cmake" "/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_gen_version_h"
+ConfigureCommand: "/usr/bin/cmake" "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_gen_version_h"
 MakeCommand: /usr/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 

@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DAMENT_INDEX_CPP_BUILDING_DLL -Dament_index_cpp_EXPORTS
 
-CXX_INCLUDES = -I/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_index/ament_index_cpp/include
+CXX_INCLUDES = -I/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_index/ament_index_cpp/include
 
 CXX_FLAGS = -fPIC -std=c++14 -Wall -Wextra -Wpedantic -std=gnu++14
 

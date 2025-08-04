@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8b118d7587fdd505d8ff.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rcutils",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_rcutils_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_rcutils_egg-Debug-84c22a4a467ad7c2cc15.json",
+					"name" : "ament_cmake_python_build_rcutils_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_rcutils::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_rcutils-Debug-9463a10af5fe17f2010d.json",
+					"name" : "ament_cmake_python_copy_rcutils",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rcutils::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rcutils-Debug-8551f6f2f6f2bbfb713b.json",
+					"name" : "rcutils",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rcutils_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rcutils_uninstall-Debug-b82df0f0488a9cfef02c.json",
+					"name" : "rcutils_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-bde926918db7c329911a.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rcutils",
+		"source" : "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/uros/rcutils"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

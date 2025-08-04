@@ -1,0 +1,25 @@
+[1.295s] Invoking command in '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/uros/tracetools/tracetools_read': PYTHONPATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_read/prefix_override:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/tracetools_read build --build-base /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_read/build install --record /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_read/install.log --single-version-externally-managed install_data
+[1.449s] /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[1.449s]   warnings.warn(msg)
+[1.493s] running egg_info
+[1.499s] writing ../../../build/tracetools_read/tracetools_read.egg-info/PKG-INFO
+[1.500s] writing dependency_links to ../../../build/tracetools_read/tracetools_read.egg-info/dependency_links.txt
+[1.500s] writing requirements to ../../../build/tracetools_read/tracetools_read.egg-info/requires.txt
+[1.500s] writing top-level names to ../../../build/tracetools_read/tracetools_read.egg-info/top_level.txt
+[1.517s] reading manifest file '../../../build/tracetools_read/tracetools_read.egg-info/SOURCES.txt'
+[1.519s] writing manifest file '../../../build/tracetools_read/tracetools_read.egg-info/SOURCES.txt'
+[1.519s] running build
+[1.519s] running build_py
+[1.519s] copying tracetools_read/__init__.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_read/build/lib/tracetools_read
+[1.519s] copying tracetools_read/trace.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_read/build/lib/tracetools_read
+[1.520s] running install
+[1.525s] running install_lib
+[1.532s] running install_data
+[1.532s] copying package.xml -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/tracetools_read
+[1.533s] copying resource/tracetools_read -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages
+[1.533s] running install_egg_info
+[1.541s] removing '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_read-4.1.1-py3.10.egg-info' (and everything under it)
+[1.541s] Copying ../../../build/tracetools_read/tracetools_read.egg-info to /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_read-4.1.1-py3.10.egg-info
+[1.542s] running install_scripts
+[1.596s] writing list of installed files to '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_read/install.log'
+[1.678s] Invoked command in '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/uros/tracetools/tracetools_read' returned '0': PYTHONPATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_read/prefix_override:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/tracetools_read build --build-base /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_read/build install --record /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_read/install.log --single-version-externally-managed install_data

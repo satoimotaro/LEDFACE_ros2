@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/googletest/googletest
+CMAKE_SOURCE_DIR = /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/googletest/googletest
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/gtest_vendor
+CMAKE_BINARY_DIR = /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/gtest_vendor
 
 #=============================================================================
 # Directory level rules for the build root directory

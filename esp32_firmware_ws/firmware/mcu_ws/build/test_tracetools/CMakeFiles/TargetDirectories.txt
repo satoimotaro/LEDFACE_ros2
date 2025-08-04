@@ -1,0 +1,9 @@
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/uninstall.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/test_tracetools_uninstall.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/test.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/edit_cache.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/rebuild_cache.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/list_install_components.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/install.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/install/local.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/install/strip.dir

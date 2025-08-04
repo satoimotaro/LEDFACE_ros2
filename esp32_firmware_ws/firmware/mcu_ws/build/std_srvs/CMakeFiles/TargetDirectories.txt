@@ -1,0 +1,14 @@
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/std_srvs/CMakeFiles/uninstall.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/std_srvs/CMakeFiles/std_srvs_uninstall.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/std_srvs/CMakeFiles/std_srvs.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/std_srvs/CMakeFiles/std_srvs__rosidl_generator_c.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/std_srvs/CMakeFiles/std_srvs__rosidl_typesupport_introspection_c.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/std_srvs/CMakeFiles/std_srvs__rosidl_typesupport_microxrcedds_c.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/std_srvs/CMakeFiles/std_srvs__rosidl_typesupport_c.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/std_srvs/CMakeFiles/test.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/std_srvs/CMakeFiles/edit_cache.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/std_srvs/CMakeFiles/rebuild_cache.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/std_srvs/CMakeFiles/list_install_components.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/std_srvs/CMakeFiles/install.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/std_srvs/CMakeFiles/install/local.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/std_srvs/CMakeFiles/install/strip.dir

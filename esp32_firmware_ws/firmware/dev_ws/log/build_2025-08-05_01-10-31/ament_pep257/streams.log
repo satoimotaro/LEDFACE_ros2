@@ -1,0 +1,40 @@
+[0.857s] Invoking command in '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_lint/ament_pep257': AMENT_PREFIX_PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_flake8:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_lint PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_pep257/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_pep257 build --build-base /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_pep257/build install --record /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_pep257/install.log --single-version-externally-managed install_data
+[1.111s] running egg_info
+[1.111s] creating ../../../build/ament_pep257/ament_pep257.egg-info
+[1.111s] writing ../../../build/ament_pep257/ament_pep257.egg-info/PKG-INFO
+[1.112s] writing dependency_links to ../../../build/ament_pep257/ament_pep257.egg-info/dependency_links.txt
+[1.112s] writing entry points to ../../../build/ament_pep257/ament_pep257.egg-info/entry_points.txt
+[1.112s] writing requirements to ../../../build/ament_pep257/ament_pep257.egg-info/requires.txt
+[1.112s] writing top-level names to ../../../build/ament_pep257/ament_pep257.egg-info/top_level.txt
+[1.112s] writing manifest file '../../../build/ament_pep257/ament_pep257.egg-info/SOURCES.txt'
+[1.116s] reading manifest file '../../../build/ament_pep257/ament_pep257.egg-info/SOURCES.txt'
+[1.116s] writing manifest file '../../../build/ament_pep257/ament_pep257.egg-info/SOURCES.txt'
+[1.116s] running build
+[1.116s] running build_py
+[1.116s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_pep257/build
+[1.116s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_pep257/build/lib
+[1.116s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257
+[1.117s] copying ament_pep257/pytest_marker.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257
+[1.117s] copying ament_pep257/__init__.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257
+[1.117s] copying ament_pep257/main.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257
+[1.117s] running install
+[1.117s] running install_lib
+[1.117s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257
+[1.117s] copying /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257/pytest_marker.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257
+[1.117s] copying /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257/__init__.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257
+[1.118s] copying /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257/main.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257
+[1.118s] byte-compiling /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257/pytest_marker.py to pytest_marker.cpython-310.pyc
+[1.118s] byte-compiling /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257/__init__.py to __init__.cpython-310.pyc
+[1.118s] byte-compiling /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257/main.py to main.cpython-310.pyc
+[1.121s] running install_data
+[1.121s] copying package.xml -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_pep257/share/ament_pep257
+[1.121s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_pep257/share/ament_index
+[1.121s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_pep257/share/ament_index/resource_index
+[1.121s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_pep257/share/ament_index/resource_index/packages
+[1.121s] copying resource/ament_pep257 -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_pep257/share/ament_index/resource_index/packages
+[1.121s] running install_egg_info
+[1.124s] Copying ../../../build/ament_pep257/ament_pep257.egg-info to /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257-0.12.14-py3.10.egg-info
+[1.125s] running install_scripts
+[1.143s] Installing ament_pep257 script to /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_pep257/bin
+[1.143s] writing list of installed files to '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_pep257/install.log'
+[1.169s] Invoked command in '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_lint/ament_pep257' returned '0': AMENT_PREFIX_PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_flake8:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_lint PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_pep257/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_pep257 build --build-base /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_pep257/build install --record /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_pep257/install.log --single-version-externally-managed install_data

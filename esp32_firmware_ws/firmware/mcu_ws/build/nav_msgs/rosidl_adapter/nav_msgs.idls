@@ -1,0 +1,10 @@
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/Goals.idl
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/GridCells.idl
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/MapMetaData.idl
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/OccupancyGrid.idl
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/Odometry.idl
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/Path.idl
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:srv/GetMap.idl
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:srv/GetPlan.idl
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:srv/LoadMap.idl
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:srv/SetMap.idl

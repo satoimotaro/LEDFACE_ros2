@@ -1,6 +1,0 @@
-Invoking command in '/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/gtest_vendor': /usr/bin/cmake /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/googletest/googletest -DCMAKE_INSTALL_PREFIX=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/gtest_vendor
-Invoked command in '/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/gtest_vendor' returned '0': /usr/bin/cmake /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/googletest/googletest -DCMAKE_INSTALL_PREFIX=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/gtest_vendor
-Invoking command in '/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/gtest_vendor': /usr/bin/cmake --build /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/gtest_vendor -- -j16 -l16
-Invoked command in '/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/gtest_vendor' returned '0': /usr/bin/cmake --build /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/gtest_vendor -- -j16 -l16
-Invoking command in '/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/gtest_vendor': /usr/bin/cmake --install /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/gtest_vendor
-Invoked command in '/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/gtest_vendor' returned '0': /usr/bin/cmake --install /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/gtest_vendor

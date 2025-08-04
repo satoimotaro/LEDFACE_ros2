@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_lint/ament_cmake_flake8
+CMAKE_SOURCE_DIR = /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_lint/ament_cmake_flake8
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_flake8
+CMAKE_BINARY_DIR = /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_flake8
 
 # Utility rule file for uninstall.
 
@@ -78,6 +78,6 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 CMakeFiles/uninstall.dir/depend:
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_flake8 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_lint/ament_cmake_flake8 /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_lint/ament_cmake_flake8 /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_flake8 /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_flake8 /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_flake8/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_flake8 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_lint/ament_cmake_flake8 /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_lint/ament_cmake_flake8 /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_flake8 /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_flake8 /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_flake8/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/uninstall.dir/depend
 

@@ -1,0 +1,4 @@
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/shape_msgs/rosidl_adapter/shape_msgs:msg/Mesh.idl
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/shape_msgs/rosidl_adapter/shape_msgs:msg/MeshTriangle.idl
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/shape_msgs/rosidl_adapter/shape_msgs:msg/Plane.idl
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/shape_msgs/rosidl_adapter/shape_msgs:msg/SolidPrimitive.idl

@@ -1,0 +1,10 @@
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rclc_lifecycle/CMakeFiles/uninstall.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rclc_lifecycle/CMakeFiles/rclc_lifecycle_uninstall.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rclc_lifecycle/CMakeFiles/rclc_lifecycle.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rclc_lifecycle/CMakeFiles/test.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rclc_lifecycle/CMakeFiles/edit_cache.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rclc_lifecycle/CMakeFiles/rebuild_cache.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rclc_lifecycle/CMakeFiles/list_install_components.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rclc_lifecycle/CMakeFiles/install.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rclc_lifecycle/CMakeFiles/install/local.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rclc_lifecycle/CMakeFiles/install/strip.dir

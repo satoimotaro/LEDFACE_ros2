@@ -4,7 +4,7 @@
 # compile C with /usr/bin/cc
 C_DEFINES = -DEXLIB_BUILDING_LIBRARY -Dexlib_EXPORTS
 
-C_INCLUDES = -I/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test/exlib_bad/include
+C_INCLUDES = -I/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test/exlib_bad/include
 
 C_FLAGS = -fPIC
 

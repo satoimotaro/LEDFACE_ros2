@@ -1,0 +1,6 @@
+[0.000000] (-) TimerEvent: {}
+[0.000399] (-) JobUnselected: {'identifier': 'image_dot_filter'}
+[0.000413] (-) JobUnselected: {'identifier': 'image_publisher'}
+[0.000442] (-) JobUnselected: {'identifier': 'ledface_launch'}
+[0.000455] (-) JobUnselected: {'identifier': 'micro_ros_agent'}
+[0.000706] (-) EventReactorShutdown: {}

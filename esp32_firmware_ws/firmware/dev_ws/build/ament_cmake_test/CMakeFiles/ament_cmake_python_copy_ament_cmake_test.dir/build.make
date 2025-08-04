@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_test
+CMAKE_SOURCE_DIR = /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_test
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_test
+CMAKE_BINARY_DIR = /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_test
 
 # Utility rule file for ament_cmake_python_copy_ament_cmake_test.
 
@@ -67,7 +67,7 @@ include CMakeFiles/ament_cmake_python_copy_ament_cmake_test.dir/compiler_depend.
 include CMakeFiles/ament_cmake_python_copy_ament_cmake_test.dir/progress.make
 
 CMakeFiles/ament_cmake_python_copy_ament_cmake_test:
-	/usr/bin/cmake -E copy_directory /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_test/ament_cmake_test /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_test/ament_cmake_python/ament_cmake_test/ament_cmake_test
+	/usr/bin/cmake -E copy_directory /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_test/ament_cmake_test /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_test/ament_cmake_python/ament_cmake_test/ament_cmake_test
 
 ament_cmake_python_copy_ament_cmake_test: CMakeFiles/ament_cmake_python_copy_ament_cmake_test
 ament_cmake_python_copy_ament_cmake_test: CMakeFiles/ament_cmake_python_copy_ament_cmake_test.dir/build.make
@@ -82,6 +82,6 @@ CMakeFiles/ament_cmake_python_copy_ament_cmake_test.dir/clean:
 .PHONY : CMakeFiles/ament_cmake_python_copy_ament_cmake_test.dir/clean
 
 CMakeFiles/ament_cmake_python_copy_ament_cmake_test.dir/depend:
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_test && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_test /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_test /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_test /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_test /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_test/CMakeFiles/ament_cmake_python_copy_ament_cmake_test.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_test && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_test /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_test /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_test /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_test /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_test/CMakeFiles/ament_cmake_python_copy_ament_cmake_test.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ament_cmake_python_copy_ament_cmake_test.dir/depend
 

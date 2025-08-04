@@ -1,8 +1,8 @@
-# Install script for directory: /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/googletest/googlemock
+# Install script for directory: /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/googletest/googlemock
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/gmock_vendor")
+  set(CMAKE_INSTALL_PREFIX "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/gmock_vendor")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -38,23 +38,23 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gmock_vendor/cmake" TYPE FILE FILES "/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/googletest/googlemock/gmock_vendorConfig.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gmock_vendor/cmake" TYPE FILE FILES "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/googletest/googlemock/gmock_vendorConfig.cmake")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gmock_vendor" TYPE FILE FILES "/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/googletest/googlemock/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gmock_vendor" TYPE FILE FILES "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/googletest/googlemock/package.xml")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/src/gmock_vendor" TYPE FILE RENAME "CMakeLists.txt" FILES "/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/googletest/googlemock/CMakeLists.txt.install")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/src/gmock_vendor" TYPE FILE RENAME "CMakeLists.txt" FILES "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/googletest/googlemock/CMakeLists.txt.install")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/src/gmock_vendor/include" TYPE DIRECTORY FILES "/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/googletest/googlemock/include/gmock")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/src/gmock_vendor/include" TYPE DIRECTORY FILES "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/googletest/googlemock/include/gmock")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/src/gmock_vendor" TYPE DIRECTORY FILES "/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/googletest/googlemock/src")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/src/gmock_vendor" TYPE DIRECTORY FILES "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/googletest/googlemock/src")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -65,5 +65,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/gmock_vendor/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/gmock_vendor/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

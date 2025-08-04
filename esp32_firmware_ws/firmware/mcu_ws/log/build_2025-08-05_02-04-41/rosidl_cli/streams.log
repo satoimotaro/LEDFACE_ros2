@@ -1,0 +1,53 @@
+[1.278s] Invoking command in '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rosidl/rosidl_cli': PYTHONPATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/prefix_override:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/rosidl_cli build --build-base /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/build install --record /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/install.log --single-version-externally-managed install_data
+[1.441s] /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[1.441s]   warnings.warn(msg)
+[1.453s] /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/setuptools/dist.py:759: SetuptoolsDeprecationWarning: License classifiers are deprecated.
+[1.453s] !!
+[1.453s] 
+[1.453s]         ********************************************************************************
+[1.453s]         Please consider removing the following classifiers in favor of a SPDX license expression:
+[1.453s] 
+[1.453s]         License :: OSI Approved :: Apache Software License
+[1.454s] 
+[1.454s]         See https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#license for details.
+[1.454s]         ********************************************************************************
+[1.454s] 
+[1.454s] !!
+[1.454s]   self._finalize_license_expression()
+[1.477s] running egg_info
+[1.483s] writing ../../../build/rosidl_cli/rosidl_cli.egg-info/PKG-INFO
+[1.484s] writing dependency_links to ../../../build/rosidl_cli/rosidl_cli.egg-info/dependency_links.txt
+[1.484s] writing entry points to ../../../build/rosidl_cli/rosidl_cli.egg-info/entry_points.txt
+[1.484s] writing requirements to ../../../build/rosidl_cli/rosidl_cli.egg-info/requires.txt
+[1.485s] writing top-level names to ../../../build/rosidl_cli/rosidl_cli.egg-info/top_level.txt
+[1.500s] reading manifest file '../../../build/rosidl_cli/rosidl_cli.egg-info/SOURCES.txt'
+[1.502s] writing manifest file '../../../build/rosidl_cli/rosidl_cli.egg-info/SOURCES.txt'
+[1.502s] running build
+[1.502s] running build_py
+[1.503s] copying rosidl_cli/cli.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli
+[1.503s] copying rosidl_cli/common.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli
+[1.503s] copying rosidl_cli/entry_points.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli
+[1.503s] copying rosidl_cli/__init__.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli
+[1.504s] copying rosidl_cli/extensions.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli
+[1.504s] copying rosidl_cli/command/helpers.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command
+[1.504s] copying rosidl_cli/command/__init__.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command
+[1.505s] copying rosidl_cli/command/generate/api.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/generate
+[1.505s] copying rosidl_cli/command/generate/__init__.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/generate
+[1.505s] copying rosidl_cli/command/generate/extensions.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/generate
+[1.506s] copying rosidl_cli/command/translate/api.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/translate
+[1.506s] copying rosidl_cli/command/translate/__init__.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/translate
+[1.506s] copying rosidl_cli/command/translate/extensions.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/translate
+[1.507s] running install
+[1.512s] running install_lib
+[1.520s] running install_data
+[1.520s] copying resource/rosidl_cli -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages
+[1.521s] copying package.xml -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/rosidl_cli
+[1.521s] copying completion/rosidl-argcomplete.bash -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/rosidl_cli/environment
+[1.521s] copying completion/rosidl-argcomplete.zsh -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/rosidl_cli/environment
+[1.521s] running install_egg_info
+[1.529s] removing '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli-3.1.7-py3.10.egg-info' (and everything under it)
+[1.530s] Copying ../../../build/rosidl_cli/rosidl_cli.egg-info to /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli-3.1.7-py3.10.egg-info
+[1.531s] running install_scripts
+[1.589s] Installing rosidl script to /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/bin
+[1.589s] writing list of installed files to '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/install.log'
+[1.625s] Invoked command in '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rosidl/rosidl_cli' returned '0': PYTHONPATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/prefix_override:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/rosidl_cli build --build-base /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/build install --record /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/rosidl_cli/install.log --single-version-externally-managed install_data

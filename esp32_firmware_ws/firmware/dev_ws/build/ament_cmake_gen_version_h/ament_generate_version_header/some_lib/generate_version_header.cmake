@@ -14,8 +14,8 @@
 # Generated from generate_version_header.cmake.in
 # This file is used by ament_generate_version_header()
 
-set(GENERATED_HEADER_FILE "/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_gen_version_h/ament_generate_version_header/some_lib/ament_generate_version_header/version.hpp")
-set(VERSION_TEMPLATE_FILE "/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_gen_version_h/cmake/version.h.in")
+set(GENERATED_HEADER_FILE "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_gen_version_h/ament_generate_version_header/some_lib/ament_generate_version_header/version.hpp")
+set(VERSION_TEMPLATE_FILE "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_gen_version_h/cmake/version.h.in")
 
 set(VERSION_MAJOR "1")
 set(VERSION_MINOR "3")

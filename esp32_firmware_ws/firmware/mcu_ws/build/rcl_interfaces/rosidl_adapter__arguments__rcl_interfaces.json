@@ -1,0 +1,22 @@
+{
+  "package_name": "rcl_interfaces",
+  "non_idl_tuples": [
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rcl_interfaces/rcl_interfaces:msg/FloatingPointRange.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rcl_interfaces/rcl_interfaces:msg/IntegerRange.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rcl_interfaces/rcl_interfaces:msg/ListParametersResult.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rcl_interfaces/rcl_interfaces:msg/Log.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rcl_interfaces/rcl_interfaces:msg/ParameterDescriptor.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rcl_interfaces/rcl_interfaces:msg/ParameterEventDescriptors.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rcl_interfaces/rcl_interfaces:msg/ParameterEvent.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rcl_interfaces/rcl_interfaces:msg/Parameter.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rcl_interfaces/rcl_interfaces:msg/ParameterType.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rcl_interfaces/rcl_interfaces:msg/ParameterValue.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rcl_interfaces/rcl_interfaces:msg/SetParametersResult.msg",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rcl_interfaces/rcl_interfaces:srv/DescribeParameters.srv",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rcl_interfaces/rcl_interfaces:srv/GetParameters.srv",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rcl_interfaces/rcl_interfaces:srv/GetParameterTypes.srv",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rcl_interfaces/rcl_interfaces:srv/ListParameters.srv",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rcl_interfaces/rcl_interfaces:srv/SetParametersAtomically.srv",
+    "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/rcl_interfaces/rcl_interfaces:srv/SetParameters.srv"
+  ]
+}

@@ -1,0 +1,15 @@
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/ament_index/resource_index/package_run_dependencies/common_interfaces
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/ament_index/resource_index/parent_prefix_path/common_interfaces
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/common_interfaces/environment/ament_prefix_path.sh
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/common_interfaces/environment/ament_prefix_path.dsv
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/common_interfaces/environment/path.sh
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/common_interfaces/environment/path.dsv
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/common_interfaces/local_setup.bash
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/common_interfaces/local_setup.sh
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/common_interfaces/local_setup.zsh
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/common_interfaces/local_setup.dsv
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/common_interfaces/package.dsv
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages/common_interfaces
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/common_interfaces/cmake/common_interfacesConfig.cmake
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/common_interfaces/cmake/common_interfacesConfig-version.cmake
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/common_interfaces/package.xml

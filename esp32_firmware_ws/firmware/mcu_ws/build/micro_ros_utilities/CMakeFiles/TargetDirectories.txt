@@ -1,0 +1,10 @@
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/micro_ros_utilities/CMakeFiles/uninstall.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/micro_ros_utilities/CMakeFiles/micro_ros_utilities_uninstall.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/micro_ros_utilities/CMakeFiles/micro_ros_utilities.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/micro_ros_utilities/CMakeFiles/test.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/micro_ros_utilities/CMakeFiles/edit_cache.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/micro_ros_utilities/CMakeFiles/rebuild_cache.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/micro_ros_utilities/CMakeFiles/list_install_components.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/micro_ros_utilities/CMakeFiles/install.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/micro_ros_utilities/CMakeFiles/install/local.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/micro_ros_utilities/CMakeFiles/install/strip.dir

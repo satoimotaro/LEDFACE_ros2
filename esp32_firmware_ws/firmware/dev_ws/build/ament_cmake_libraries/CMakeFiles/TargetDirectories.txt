@@ -1,7 +1,7 @@
-/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_libraries/CMakeFiles/uninstall.dir
-/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_libraries/CMakeFiles/ament_cmake_libraries_uninstall.dir
-/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_libraries/CMakeFiles/edit_cache.dir
-/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_libraries/CMakeFiles/rebuild_cache.dir
-/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_libraries/CMakeFiles/list_install_components.dir
-/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_libraries/CMakeFiles/install.dir
-/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_libraries/CMakeFiles/install/local.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_libraries/CMakeFiles/uninstall.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_libraries/CMakeFiles/ament_cmake_libraries_uninstall.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_libraries/CMakeFiles/edit_cache.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_libraries/CMakeFiles/rebuild_cache.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_libraries/CMakeFiles/list_install_components.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_libraries/CMakeFiles/install.dir
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_libraries/CMakeFiles/install/local.dir

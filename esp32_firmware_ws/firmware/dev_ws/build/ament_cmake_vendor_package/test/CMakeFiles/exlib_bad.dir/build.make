@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package
+CMAKE_SOURCE_DIR = /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package
+CMAKE_BINARY_DIR = /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package
 
 # Utility rule file for exlib_bad.
 
@@ -75,53 +75,53 @@ test/CMakeFiles/exlib_bad-complete: test/exlib_bad-prefix/src/exlib_bad-stamp/ex
 test/CMakeFiles/exlib_bad-complete: test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-configure
 test/CMakeFiles/exlib_bad-complete: test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-build
 test/CMakeFiles/exlib_bad-complete: test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-install
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Completed 'exlib_bad'"
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E make_directory /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/CMakeFiles
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E touch /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/CMakeFiles/exlib_bad-complete
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E touch /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-done
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Completed 'exlib_bad'"
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E make_directory /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/CMakeFiles
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E touch /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/CMakeFiles/exlib_bad-complete
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E touch /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-done
 
 test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-build: test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-configure
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Performing build step for 'exlib_bad'"
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-build && $(MAKE)
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-build && /usr/bin/cmake -E touch /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Performing build step for 'exlib_bad'"
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-build && $(MAKE)
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-build && /usr/bin/cmake -E touch /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-build
 
 test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-configure: test/exlib_bad-prefix/tmp/exlib_bad-cfgcmd.txt
 test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-configure: test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-patch
-test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-configure: /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test/exlib_bad/CMakeLists.txt
-test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-configure: /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test/exlib_bad/exlibConfig.cmake.in
-test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-configure: /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test/exlib_bad/include/exlib/exlib.h
-test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-configure: /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test/exlib_bad/include/exlib/visibility_control.h
-test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-configure: /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test/exlib_bad/src/exlib.c
+test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-configure: /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test/exlib_bad/CMakeLists.txt
+test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-configure: /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test/exlib_bad/exlibConfig.cmake.in
+test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-configure: /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test/exlib_bad/include/exlib/exlib.h
+test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-configure: /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test/exlib_bad/include/exlib/visibility_control.h
+test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-configure: /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test/exlib_bad/src/exlib.c
 test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-configure: test/exlib_bad-config.cmake
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Performing configure step for 'exlib_bad'"
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-build && /usr/bin/cmake -C/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-config.cmake -G "Unix Makefiles" -DCMAKE_STAGING_PREFIX=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/install -DCMAKE_INSTALL_PREFIX=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_cmake_vendor_package/opt/ament_cmake_vendor_package_test -Wno-dev "-GUnix Makefiles" /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test/exlib_bad
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-build && /usr/bin/cmake -E touch /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-configure
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Performing configure step for 'exlib_bad'"
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-build && /usr/bin/cmake -C/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-config.cmake -G "Unix Makefiles" -DCMAKE_STAGING_PREFIX=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/install -DCMAKE_INSTALL_PREFIX=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_cmake_vendor_package/opt/ament_cmake_vendor_package_test -Wno-dev "-GUnix Makefiles" /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test/exlib_bad
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-build && /usr/bin/cmake -E touch /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-configure
 
 test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-download: test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-mkdir
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "No download step for 'exlib_bad'"
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E echo_append
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E touch /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-download
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "No download step for 'exlib_bad'"
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E echo_append
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E touch /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-download
 
 test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-install: test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Performing install step for 'exlib_bad'"
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-build && $(MAKE) install
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-build && /usr/bin/cmake -E touch /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-install
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Performing install step for 'exlib_bad'"
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-build && $(MAKE) install
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-build && /usr/bin/cmake -E touch /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-install
 
 test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-mkdir:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'exlib_bad'"
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E make_directory /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test/exlib_bad
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E make_directory /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-build
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E make_directory /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/install
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E make_directory /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/tmp
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E make_directory /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E make_directory /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E make_directory /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E touch /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-mkdir
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'exlib_bad'"
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E make_directory /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test/exlib_bad
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E make_directory /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-build
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E make_directory /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/install
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E make_directory /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/tmp
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E make_directory /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E make_directory /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E make_directory /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E touch /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-mkdir
 
 test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-patch: test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-download
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "No patch step for 'exlib_bad'"
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E echo_append
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E touch /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-patch
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "No patch step for 'exlib_bad'"
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E echo_append
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && /usr/bin/cmake -E touch /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-stamp/exlib_bad-patch
 
 exlib_bad: test/CMakeFiles/exlib_bad
 exlib_bad: test/CMakeFiles/exlib_bad-complete
@@ -139,10 +139,10 @@ test/CMakeFiles/exlib_bad.dir/build: exlib_bad
 .PHONY : test/CMakeFiles/exlib_bad.dir/build
 
 test/CMakeFiles/exlib_bad.dir/clean:
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && $(CMAKE_COMMAND) -P CMakeFiles/exlib_bad.dir/cmake_clean.cmake
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test && $(CMAKE_COMMAND) -P CMakeFiles/exlib_bad.dir/cmake_clean.cmake
 .PHONY : test/CMakeFiles/exlib_bad.dir/clean
 
 test/CMakeFiles/exlib_bad.dir/depend:
-	cd /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/CMakeFiles/exlib_bad.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package/test /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/CMakeFiles/exlib_bad.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : test/CMakeFiles/exlib_bad.dir/depend
 

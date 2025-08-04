@@ -1,8 +1,8 @@
-# Install script for directory: /home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/gtest_vendor/src/gtest_vendor
+# Install script for directory: /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/gtest_vendor/src/gtest_vendor
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/satoimo/ros2_LEDFACE_ws/firmware/dev_ws/install/ament_index_cpp")
+  set(CMAKE_INSTALL_PREFIX "/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/dev_ws/install/ament_index_cpp")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

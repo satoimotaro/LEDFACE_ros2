@@ -1,0 +1,36 @@
+[0.541s] Invoking command in '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs_py': AMENT_PREFIX_PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib:${LD_LIBRARY_PATH} PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/bin:${PATH} PYTHONPATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/sensor_msgs_py/prefix_override:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/sensor_msgs_py build --build-base /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/sensor_msgs_py/build install --record /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/sensor_msgs_py/install.log --single-version-externally-managed install_data
+[0.650s] /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[0.651s]   warnings.warn(msg)
+[0.675s] running egg_info
+[0.679s] creating ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info
+[0.679s] writing ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/PKG-INFO
+[0.680s] writing dependency_links to ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/dependency_links.txt
+[0.680s] writing requirements to ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/requires.txt
+[0.680s] writing top-level names to ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/top_level.txt
+[0.680s] writing manifest file '../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[0.689s] reading manifest file '../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[0.690s] adding license file 'LICENSE'
+[0.690s] writing manifest file '../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[0.691s] running build
+[0.691s] running build_py
+[0.691s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[0.691s] copying sensor_msgs_py/numpy_compat.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[0.691s] copying sensor_msgs_py/point_cloud2.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[0.691s] copying sensor_msgs_py/__init__.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[0.691s] running install
+[0.695s] running install_lib
+[0.699s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py
+[0.699s] copying /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py/numpy_compat.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py
+[0.699s] copying /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py/point_cloud2.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py
+[0.699s] copying /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py/__init__.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py
+[0.700s] byte-compiling /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py/numpy_compat.py to numpy_compat.cpython-310.pyc
+[0.701s] byte-compiling /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py/point_cloud2.py to point_cloud2.cpython-310.pyc
+[0.702s] byte-compiling /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py/__init__.py to __init__.cpython-310.pyc
+[0.702s] running install_data
+[0.702s] copying resource/sensor_msgs_py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages
+[0.702s] copying package.xml -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/sensor_msgs_py
+[0.702s] running install_egg_info
+[0.710s] Copying ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info to /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py-4.9.0-py3.10.egg-info
+[0.711s] running install_scripts
+[0.752s] writing list of installed files to '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/sensor_msgs_py/install.log'
+[0.775s] Invoked command in '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs_py' returned '0': AMENT_PREFIX_PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib:${LD_LIBRARY_PATH} PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/bin:${PATH} PYTHONPATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/sensor_msgs_py/prefix_override:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/sensor_msgs_py build --build-base /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/sensor_msgs_py/build install --record /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/sensor_msgs_py/install.log --single-version-externally-managed install_data

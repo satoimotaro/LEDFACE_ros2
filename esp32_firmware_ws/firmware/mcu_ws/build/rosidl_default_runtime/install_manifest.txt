@@ -1,0 +1,16 @@
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/ament_index/resource_index/package_run_dependencies/rosidl_default_runtime
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/ament_index/resource_index/parent_prefix_path/rosidl_default_runtime
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/rosidl_default_runtime/environment/ament_prefix_path.sh
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/rosidl_default_runtime/environment/ament_prefix_path.dsv
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/rosidl_default_runtime/environment/path.sh
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/rosidl_default_runtime/environment/path.dsv
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/rosidl_default_runtime/local_setup.bash
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/rosidl_default_runtime/local_setup.sh
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/rosidl_default_runtime/local_setup.zsh
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/rosidl_default_runtime/local_setup.dsv
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/rosidl_default_runtime/package.dsv
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages/rosidl_default_runtime
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/rosidl_default_runtime/cmake/rosidl_default_runtime-extras.cmake
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/rosidl_default_runtime/cmake/rosidl_default_runtimeConfig.cmake
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/rosidl_default_runtime/cmake/rosidl_default_runtimeConfig-version.cmake
+/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/rosidl_default_runtime/package.xml

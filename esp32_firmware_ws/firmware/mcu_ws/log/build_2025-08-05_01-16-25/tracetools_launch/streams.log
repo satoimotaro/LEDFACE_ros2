@@ -1,0 +1,45 @@
+[0.958s] Invoking command in '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/uros/tracetools/tracetools_launch': AMENT_PREFIX_PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install:${CMAKE_PREFIX_PATH} PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/bin:${PATH} PYTHONPATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_launch/prefix_override:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/tracetools_launch build --build-base /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_launch/build install --record /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_launch/install.log --single-version-externally-managed install_data
+[1.191s] /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[1.191s]   warnings.warn(msg)
+[1.227s] running egg_info
+[1.232s] creating ../../../build/tracetools_launch/tracetools_launch.egg-info
+[1.232s] writing ../../../build/tracetools_launch/tracetools_launch.egg-info/PKG-INFO
+[1.233s] writing dependency_links to ../../../build/tracetools_launch/tracetools_launch.egg-info/dependency_links.txt
+[1.233s] writing entry points to ../../../build/tracetools_launch/tracetools_launch.egg-info/entry_points.txt
+[1.233s] writing requirements to ../../../build/tracetools_launch/tracetools_launch.egg-info/requires.txt
+[1.234s] writing top-level names to ../../../build/tracetools_launch/tracetools_launch.egg-info/top_level.txt
+[1.234s] writing manifest file '../../../build/tracetools_launch/tracetools_launch.egg-info/SOURCES.txt'
+[1.247s] reading manifest file '../../../build/tracetools_launch/tracetools_launch.egg-info/SOURCES.txt'
+[1.249s] writing manifest file '../../../build/tracetools_launch/tracetools_launch.egg-info/SOURCES.txt'
+[1.249s] running build
+[1.249s] running build_py
+[1.249s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch
+[1.249s] copying tracetools_launch/action.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch
+[1.249s] copying tracetools_launch/__init__.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch
+[1.250s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/actions
+[1.250s] copying tracetools_launch/actions/ld_preload.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/actions
+[1.250s] copying tracetools_launch/actions/__init__.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/actions
+[1.250s] running install
+[1.255s] running install_lib
+[1.261s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_launch
+[1.261s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_launch/actions
+[1.262s] copying /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/actions/ld_preload.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_launch/actions
+[1.262s] copying /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/actions/__init__.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_launch/actions
+[1.262s] copying /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/action.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_launch
+[1.262s] copying /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/__init__.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_launch
+[1.263s] byte-compiling /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_launch/actions/ld_preload.py to ld_preload.cpython-310.pyc
+[1.264s] byte-compiling /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_launch/actions/__init__.py to __init__.cpython-310.pyc
+[1.264s] byte-compiling /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_launch/action.py to action.cpython-310.pyc
+[1.267s] byte-compiling /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_launch/__init__.py to __init__.cpython-310.pyc
+[1.267s] running install_data
+[1.267s] copying package.xml -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/tracetools_launch
+[1.268s] creating /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/tracetools_launch/launch
+[1.268s] copying launch/example.launch.py -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/tracetools_launch/launch
+[1.268s] copying launch/example.launch.xml -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/tracetools_launch/launch
+[1.268s] copying launch/example.launch.yaml -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/tracetools_launch/launch
+[1.268s] copying resource/tracetools_launch -> /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages
+[1.268s] running install_egg_info
+[1.276s] Copying ../../../build/tracetools_launch/tracetools_launch.egg-info to /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_launch-4.1.1-py3.10.egg-info
+[1.277s] running install_scripts
+[1.327s] writing list of installed files to '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_launch/install.log'
+[1.360s] Invoked command in '/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/uros/tracetools/tracetools_launch' returned '0': AMENT_PREFIX_PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install:${CMAKE_PREFIX_PATH} PATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/bin:${PATH} PYTHONPATH=/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_launch/prefix_override:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:/home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/tracetools_launch build --build-base /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_launch/build install --record /home/satoimo/LEDFACE_ws/esp32_firmware_ws/firmware/mcu_ws/build/tracetools_launch/install.log --single-version-externally-managed install_data
