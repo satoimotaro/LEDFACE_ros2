@@ -1,8 +1,7 @@
 ros2_ws/build/
 ros2_ws/install/
 ros2_ws/log/
-esp32_firmware/build
-esp32_firmware/install
-esp32_firmware/log
-esp32_firmware/src
+esp32_firmware_ws/build
+esp32_firmware_ws/install
+esp32_firmware_ws/log
 
